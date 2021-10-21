@@ -1,1 +1,1 @@
-# Hammning encoder and decoder in SV
+# Hamming Encoder-Decoder in SV
